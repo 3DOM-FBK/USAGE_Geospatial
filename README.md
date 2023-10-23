@@ -4,14 +4,14 @@ Placeholder for datasets links/hosting
 | Datasets 	| Ferrara, Italy 	|  	|  	| Graz, Austria 	|  	|  	|
 |---	|---	|---	|---	|---	|---	|---	|
 |  	| GSD resolution / specs [sensor] 	| Year 	| Link 	| GSD resolution / specs [sensor] 	| Year 	| Link 	|
-| Aerial images (nadir) 	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|  	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|  	|
-| Aerial images (oblique) 	| n.a. 	| - 	|  	| 10cm, RGB bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|  	|
-| Orthophotos 	| 10cm, RGBI bands 	| 2022 	|  	| 10cm, RGBI bands 	| 2022 	|  	|
-| LIDAR point cloud 	| 10 pt m2 [Riegl VQ780ii] 	| 2022 	|  	| 4 pt m2 [Riegl VQ780ii] 	| 2022 	|  	|
-| DTM, DSM 	| 1m grid 	| 2022 	|  	| 0.5m grid 	| 2022 	|  	|
-| Hyperspectral images 	| 1m, 364 bands, VNIR  and SWIR (0,4 - 2,5 µm) [AisaFENIX384 by Specim] 	| 2022 	|  	| 1.8m, 364 bands, VNIR and SWIR (0,4 - 2,5 µm) [AisaFENIX384 by Specim] 	| 2021 	|  	|
-| Thermal images 	| 1m, night, LWIR (7,5 - 14,0 µm) [DualDigiTHERM by IGI] 	| 2023 	|  	| 0.5m, day and night,   LWIR (7,5 - 14,0 µm) [DualDigiTHERM by IGI] 	| 2021 	|  	|
-| Sentinel 3- SLSTR 	| 1.4 km grid MWIR & LWIR 	| 2018 - 	|  	| as for Ferrara 	|  	|  	|
-| Landsat 8 & 9 	| 30 m grid  (VIS, NIR, SWIR) 	| 2013 - 	|  	| as for Ferrara 	|  	|  	|
-| Land cover 	| 1 m grid 	| 2022 	|  	| 1.8 m grid 	| 2021 	|  	|
-| Building footprints 	| Vector layer, based on cadastre 	| 2022 	|  	| Vector layer, based on cadastre 	| 2021 	|  	|
+| Aerial images (nadir) 	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|[https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/SharedDocuments/USAGE/Ferrara/Aerial_images/Nadiral?csf=1&web=1&e=4kgGlW](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared Documents/USAGE/Ferrara/Aerial_images/Nadiral?csf=1&web=1&e=4kgGlW)  	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|  https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Aerial_images/Nadir?csf=1&web=1&e=geL6oW	|
+| Aerial images (oblique) 	| n.a. 	| - 	|  -	| 10cm, RGB bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	| https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Aerial_images/Nadiral?csf=1&web=1&e=dKBbQT 	|
+| Orthophotos 	| 10cm, RGBI bands 	| 2022 	|  https://dati.comune.fe.it/dataset/ortofofo2022	| 10cm, RGBI bands 	| 2022 	|  https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Orthophoto?csf=1&web=1&e=5cdFFn	|
+| LIDAR point cloud 	| 10 pt m2 [Riegl VQ780ii] 	| 2022 	| https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared Documents/USAGE/Ferrara/LiDAR?csf=1&web=1&e=sTGOFn 	| 4 pt m2 [Riegl VQ780ii] 	| 2022 	|  https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared Documents/USAGE/Graz/LiDAR?csf=1&web=1&e=ahHtdy	|
+| DTM, DSM 	| 1m grid 	| 2022 	| https://dati.comune.fe.it/dataset/dtm-2022 https://dati.comune.fe.it/dataset/dsm-2022 	| 0.5m grid 	| 2022 	| https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/DTM_DSM?csf=1&web=1&e=n9QYs3 	|
+| Hyperspectral images 	| 1m, 364 bands, VNIR  and SWIR (0,4 - 2,5 µm) [AisaFENIX384 by Specim] 	| 2022 	| https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared Documents/USAGE/Ferrara/Hyperspectral?csf=1&web=1&e=sLjAac 	| 1.8m, 364 bands, VNIR and SWIR (0,4 - 2,5 µm) [AisaFENIX384 by Specim] 	| 2021 	|  https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Hyperspectral?csf=1&web=1&e=6bABS4	|
+| Thermal images 	| 1m, night, LWIR (7,5 - 14,0 µm) [DualDigiTHERM by IGI] 	| 2023 	| https://dati.comune.fe.it/dataset/thermal-images-20233001 https://dati.comune.fe.it/dataset/thermal-images-20230716 https://dati.comune.fe.it/dataset/thermal-images-20230717 	| 0.5m, day and night,   LWIR (7,5 - 14,0 µm) [DualDigiTHERM by IGI] 	| 2021 	| https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Thermal?csf=1&web=1&e=NK5cT3 	|
+| Sentinel 3- SLSTR 	| 1.4 km grid MWIR & LWIR 	| 2018 - 	| https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared Documents/USAGE/Ferrara/Sentinel_3?csf=1&web=1&e=OH8jlu 	| as for Ferrara 	|  	| https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared Documents/USAGE/Graz/Sentinel_3?csf=1&web=1&e=EhtQTv 	|
+| Landsat 8 & 9 	| 30 m grid  (VIS, NIR, SWIR) 	| 2013 - 	|  https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared Documents/USAGE/Ferrara/Landsat_8_and_9?csf=1&web=1&e=p27FsR	| as for Ferrara 	|  	|  https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared Documents/USAGE/Graz/Landsat_8_and_9?csf=1&web=1&e=uPbcQ4	|
+| Land cover 	| 1 m grid 	| 2022 	| https://dati.comune.fe.it/dataset/fabbricati-usage 	| 1.8 m grid 	| 2021 	| https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Land_cover?csf=1&web=1&e=L2utyC 	|
+| Building footprints 	| Vector layer, based on cadastre 	| 2022 	| https://dati.comune.fe.it/dataset/fabbricati-usage  	| Vector layer, based on cadastre 	| 2021 	|  https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Building_footprints?csf=1&web=1&e=3vdY3s	|
