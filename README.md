@@ -10,11 +10,6 @@ Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe,
 
 ### Ferrara, Italy 
 
-|  Dataset | GSD resolution / specs [sensor]  |  Year | Link |
-
-
-
-
 | Datasets 	| GSD resolution / specs [sensor] 	| Year 	| Link 	| 
 |---|---|---|---|
 | Aerial images (nadir) 	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|[FE_nadir](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehkde8WR_-FGkA7cJHuZGhsB1QKaC8zuEQYF1OeJraptdQ?e=lHtR3i)  	| 
@@ -30,6 +25,20 @@ Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe,
 | Building footprints 	| Vector layer, based on cadastre 	| 2022 	| [FE_build](https://dati.comune.fe.it/dataset/fabbricati-usage)  	| 
 
 
+### Graz, Austria 
 
+| Datasets 	| GSD resolution / specs [sensor] 	| Year 	| Link 	| 
+|---|---|---|---|
+| Aerial images (nadir) 	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|  [Graz_nadir](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Aerial_images/Nadir?csf=1&web=1&e=geL6oW)	|
+| Aerial images (oblique) 	| 10cm, RGB bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	| [Graz_oblique](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EolN5wSTKhhGqsi3A44nDoABIsT6SMuBYaTTvsWJiD1gMw?e=thtvox) 	|
+| Orthophotos 	| 10cm, RGBI bands 	| 2022 	|  [Graz_ortho](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EriG9_7agWxDmFhElhNcu6YB1jY3iUqE9bkEWLHDhk4nFA?e=wg5mQA)	|
+| LIDAR point cloud 	| 4 pt m2 [Riegl VQ780ii] 	| 2022 	|  [Graz_lidar](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Evrh7RRSS1RBnUv040ICIQEB_kHNge1WOY_tN54EL1GF6Q?e=zYhH65)	|
+| DTM, DSM 	| 0.5m grid 	| 2022 	| [Graz_dtm_dsm](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ej5VQ3eFJpBGgfk08k5j1lYBTbr32mr2ZpzyS3lIbDUYHg?e=F3Gp6k) 	|
+| Hyperspectral images 	| 1.8m, 364 bands, VNIR and SWIR (0,4 - 2,5 µm) [AisaFENIX384 by Specim] 	| 2021 	| [Graz_hyper](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EibK8a3u-mJPrgjhX9dPbpYB9Pb3Vj9iDpv4zXgYxRM_Ig?e=6wF02F)	|
+| Thermal images 	| 0.5m, day and night,   LWIR (7,5 - 14,0 µm) [DualDigiTHERM by IGI] 	| 2021 	| [Graz_thermal_day_summer](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/ErzFPqKngz1Amasg1m5pDwUBBoCOqiXMklwIyEEEChM8nw?e=akrk7G) 	|
+| Sentinel 3- SLSTR 	| 1.4 km grid MWIR & LWIR 	| 2018 - 	| [Graz_SLSTR](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EnPZNdpjKdZBjtWBU57m1pgBsymSQOKCCEIihXFdUXahaw?e=GHc7NA) 	|
+| Landsat 8 & 9 	| 30 m grid  (VIS, NIR, SWIR) 	| 2013 - 	| [Graz_TIRS](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EvbYpADNJqFMvjQifCDjQdcBw-52DjMu8E_FX94RPJ8CsQ?e=yW6Bxs)	|
+| Land cover 	| 1.8 m grid 	| 2021 	| [Graz_land](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Et1oPtt61-pOh06OvLFX25QBrMoQ7mrYEgCdMVNneyF78g?e=200XZd) 	|
+| Building footprints 	| Vector layer, based on cadastre 	| 2021 	|  [Graz_build](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/En1NfREeJ2lJgHID0I4SWNIBxwc6RROLdXdMA5kZNa8tZA?e=pt9E26)	|
 
 
