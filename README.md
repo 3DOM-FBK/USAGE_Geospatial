@@ -1,7 +1,6 @@
-### README - USAGE_Geospatial
-
 ### MULTI-MODAL GEOSPATIAL AND THEMATIC DATA TO FOSTER GREEN DEAL APPLICATIONS
 
+<img src="[./pictures/Industrial/Industrial_B.png](https://lh3.googleusercontent.com/Pm-dhOTTYb_Clmt-wsne6CvGTx6FnZKF_9v0jRTpt3viATFrYZdSaOPnOMgkDMpGLyKMeyxTK6X8sUZdTSVfoQ=w16383)" width="250">
 
 When using the following datasets please do acknowledge the following:
 
