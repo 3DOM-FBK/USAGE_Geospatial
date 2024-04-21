@@ -9,8 +9,6 @@ When using the following datasets please do acknowledge the following:
 Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe, K., Cipriano, P., and Ciliberti, M.: MULTI-MODAL GEOSPATIAL AND THEMATIC DATA TO FOSTER GREEN DEAL APPLICATIONS, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 9–16, [https://doi.org/10.5194/isprs-archives-XLVIII-1-W3-2023-9-2023](https://doi.org/10.5194/isprs-archives-XLVIII-1-W3-2023-9-2023), 2023.
 
 
-```
-
 | Datasets 	| Ferrara, Italy 	|  	|  	| Graz, Austria 	|  	|  	|
 |---	|---	|---	|---	|---	|---	|---	|
 |  	| GSD resolution / specs [sensor] 	| Year 	| Link 	| GSD resolution / specs [sensor] 	| Year 	| Link 	|
