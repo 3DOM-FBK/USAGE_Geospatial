@@ -11,11 +11,12 @@ Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe,
 ### Ferrara, Italy 
 
 |  Dataset | GSD resolution / specs [sensor]  |  Year | Link |
-| Aerial images (nadir) 	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|[FE_nadir](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehkde8WR_-FGkA7cJHuZGhsB1QKaC8zuEQYF1OeJraptdQ?e=lHtR3i)  	| 
+
 
 
 
 | Datasets 	| GSD resolution / specs [sensor] 	| Year 	| Link 	| 
+|---|---|---|---|
 | Aerial images (nadir) 	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|[FE_nadir](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehkde8WR_-FGkA7cJHuZGhsB1QKaC8zuEQYF1OeJraptdQ?e=lHtR3i)  	| 
 | Aerial images (oblique) 	| n.a. 	| - 	|  -	| 
 | Orthophotos 	| 10cm, RGBI bands 	| 2022 	|  [FE_ortho](https://dati.comune.fe.it/dataset/ortofofo2022)	| 
