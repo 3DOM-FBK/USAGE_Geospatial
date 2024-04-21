@@ -10,8 +10,8 @@ Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe,
 
 ### Ferrara, Italy 
 
-|  Dataset | Strips  |  # images |  GSD [cm] | Link |
-|---|---|---|---|---|
+|  Dataset | GSD resolution / specs [sensor]  |  Year | Link |
+|---|---|---|---|
 
 
 | Datasets 	| GSD resolution / specs [sensor] 	| Year 	| Link 	| 
