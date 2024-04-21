@@ -1,6 +1,8 @@
 ### MULTI-MODAL GEOSPATIAL AND THEMATIC DATA TO FOSTER GREEN DEAL APPLICATIONS
 
-<img src="https://github.com/3DOM-FBK/USAGE_Geospatial/blob/master/usage.png" width="250">
+<center><img src="https://github.com/3DOM-FBK/USAGE_Geospatial/blob/master/usage.png" width="250"></center>center>
+
+The USAGE geospatial data are unique urban datasets (due to their resolutions and sensors type) provided to the R&D community to boost progresses of geospatial procedures to support climate change adaptation, renewable energy monitoring and management, urban heat island calculation, 3D city modeling, etc.
 
 When using the following datasets please do acknowledge the following:
 
