@@ -1,18 +1,14 @@
 ### MULTI-MODAL GEOSPATIAL AND THEMATIC DATA TO FOSTER GREEN DEAL APPLICATIONS
 
-<center><img src="https://github.com/3DOM-FBK/USAGE_Geospatial/blob/master/usage.png" width="250"></center>center>
+<center><img src="https://github.com/3DOM-FBK/USAGE_Geospatial/blob/master/usage.png" width="250"></center>
 
 The USAGE geospatial data are unique urban datasets (due to their resolutions and sensors type) provided to the R&D community to boost progresses of geospatial procedures to support climate change adaptation, renewable energy monitoring and management, urban heat island calculation, 3D city modeling, etc.
 
 When using the following datasets please do acknowledge the following:
 
-
 Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe, K., Cipriano, P., and Ciliberti, M.: MULTI-MODAL GEOSPATIAL AND THEMATIC DATA TO FOSTER GREEN DEAL APPLICATIONS, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 9–16, [https://doi.org/10.5194/isprs-archives-XLVIII-1-W3-2023-9-2023](https://doi.org/10.5194/isprs-archives-XLVIII-1-W3-2023-9-2023), 2023.
 
 
-***How to cite***:
-```
-Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe, K., Cipriano, P., and Ciliberti, M.: MULTI-MODAL GEOSPATIAL AND THEMATIC DATA TO FOSTER GREEN DEAL APPLICATIONS, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 9–16, https://doi.org/10.5194/isprs-archives-XLVIII-1-W3-2023-9-2023, 2023.
 ```
 
 | Datasets 	| Ferrara, Italy 	|  	|  	| Graz, Austria 	|  	|  	|
