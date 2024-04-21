@@ -1,4 +1,4 @@
-### MULTI-MODAL GEOSPATIAL AND THEMATIC DATA TO FOSTER GREEN DEAL APPLICATIONS
+<img width="879" alt="image" src="https://github.com/3DOM-FBK/USAGE_Geospatial/assets/66437104/8509083e-77f4-4bc1-966c-52998852b4cb">### MULTI-MODAL GEOSPATIAL AND THEMATIC DATA TO FOSTER GREEN DEAL APPLICATIONS
 
 <center><img src="https://github.com/3DOM-FBK/USAGE_Geospatial/blob/master/usage.png" width="250"></center>
 
@@ -10,7 +10,10 @@ Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe,
 
 ### Ferrara, Italy 
 
-|---	|---	|---	|---	|
+|  Dataset | Strips  |  # images |  GSD [cm] | link |
+|---|---|---|---|---|
+
+
 | Datasets 	| GSD resolution / specs [sensor] 	| Year 	| Link 	| 
 | Aerial images (nadir) 	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|[FE_nadir](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ehkde8WR_-FGkA7cJHuZGhsB1QKaC8zuEQYF1OeJraptdQ?e=lHtR3i)  	| 
 | Aerial images (oblique) 	| n.a. 	| - 	|  -	| 
@@ -27,7 +30,6 @@ Beber, R., Perda, G., Takhtkeshha, N., Remondino, F., Maffei, T., Poli, D., Moe,
 
 ### Graz, Austria 
 
-|---	|---	|---	|---	|
 | Datasets 	| GSD resolution / specs [sensor] 	| Year 	| Link 	| 
 | Aerial images (nadir) 	| 10cm, RGBI bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	|  [Graz_nadir](https://fbk.sharepoint.com/:f:/r/sites/BENCHMARKS/Shared%20Documents/USAGE/Graz/Aerial_images/Nadir?csf=1&web=1&e=geL6oW)	|
 | Aerial images (oblique) 	| 10cm, RGB bands, [Vexel UltraCam Osprey 4.1] 	| 2022 	| [Graz_oblique](https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EolN5wSTKhhGqsi3A44nDoABIsT6SMuBYaTTvsWJiD1gMw?e=thtvox) 	|
